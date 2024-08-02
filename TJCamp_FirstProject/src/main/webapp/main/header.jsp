@@ -20,18 +20,10 @@
                 </div>
                 <div class="col-lg-4 text-center text-lg-end">
                     <div class="d-inline-flex align-items-center" style="height: 45px;">
+                    	<a href="#"><small class="me-3 text-light"><i class="fa fa-sign-in-alt me-2"></i>로그인</small></a>
                         <a href="#"><small class="me-3 text-light"><i class="fa fa-user me-2"></i>회원가입</small></a>
-                        <a href="#"><small class="me-3 text-light"><i class="fa fa-sign-in-alt me-2"></i>로그인</small></a>
-                        <div class="dropdown">
-                            <a href="#" class="dropdown-toggle text-light" data-bs-toggle="dropdown"><small><i class="fa fa-home me-2"></i> 마이페이지</small></a>
-                            <div class="dropdown-menu rounded">
-                                <a href="#" class="dropdown-item"><i class="fas fa-user-alt me-2"></i> My Profile</a>
-                                <a href="#" class="dropdown-item"><i class="fas fa-comment-alt me-2"></i> Inbox</a>
-                                <a href="#" class="dropdown-item"><i class="fas fa-bell me-2"></i> Notifications</a>
-                                <a href="#" class="dropdown-item"><i class="fas fa-cog me-2"></i> Account Settings</a>
-                                <a href="#" class="dropdown-item"><i class="fas fa-power-off me-2"></i> Log Out</a>
-                            </div>
-                        </div>
+                        <a href="#"><small class="me-3 text-light"><i class="fa fa-user me-2"></i>고객센터</small></a>
+                        <a href="#"><small class="me-3 text-light"><i class="fa fa-user me-2"></i>마이페이지</small></a>
                     </div>
                 </div>
             </div>
@@ -42,7 +34,7 @@
         <div class="container-fluid position-relative p-0">
             <nav class="navbar navbar-expand-lg navbar-light px-4 px-lg-5 py-3 py-lg-0">
                 <a href="" class="navbar-brand p-0">
-                    <h1 class="m-0"><i class="fa fa-map-marker-alt me-3"></i>TJ camp</h1>
+                    <h1 class="m-0"><img src="logo123.png">&nbsp;&nbsp;TJ camp</h1>
                     <!-- <img src="img/logo.png" alt="Logo"> -->
                 </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
@@ -50,26 +42,33 @@
                 </button>
                 <div class="collapse navbar-collapse" id="navbarCollapse">
                     <div class="navbar-nav ms-auto py-0">
-                        <a href="index.html" class="nav-item nav-link active">홈</a>
-                        <a href="about.html" class="nav-item nav-link">캠핑장</a>
-                        <a href="services.html" class="nav-item nav-link">캠핑용품</a>
-                        <a href="packages.html" class="nav-item nav-link">맛집</a>
-                        <a href="blog.html" class="nav-item nav-link">맛집</a>
+                        <a href="#" class="nav-item nav-link active">&nbsp;&nbsp;&nbsp;홈&nbsp;&nbsp;&nbsp;</a>
+                        
                         <div class="nav-item dropdown">
-                            <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">레시피</a>
+                            <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">
+                            &nbsp;&nbsp;&nbsp;캠핑장&nbsp;&nbsp;&nbsp;</a>
                             <div class="dropdown-menu m-0">
-                                <a href="destination.html" class="dropdown-item">Destination</a>
-                                <a href="tour.html" class="dropdown-item">Explore Tour</a>
-                                <a href="booking.html" class="dropdown-item">Travel Booking</a>
-                                <a href="gallery.html" class="dropdown-item">Our Gallery</a>
-                                <a href="guides.html" class="dropdown-item">Travel Guides</a>
-                                <a href="testimonial.html" class="dropdown-item">Testimonial</a>
-                                <a href="404.html" class="dropdown-item">404 Page</a>
+                                <a href="#" class="dropdown-item">캠핑장 목록</a>
+                                <a href="#" class="dropdown-item">근처 맛집 목록</a>
                             </div>
                         </div>
-                        <a href="contact.html" class="nav-item nav-link">커뮤니티</a>
+                        
+                        
+                        <a href="about.html" class="nav-item nav-link">&nbsp;&nbsp;&nbsp;캠핑용품&nbsp;&nbsp;&nbsp;</a>
+                        
+                        <a href="about.html" class="nav-item nav-link">&nbsp;&nbsp;&nbsp;맛집&nbsp;&nbsp;&nbsp;</a>
+                        
+                        <a href="about.html" class="nav-item nav-link">&nbsp;&nbsp;&nbsp;레시피&nbsp;&nbsp;&nbsp;</a>
+                        
+                        <div class="nav-item dropdown">
+                            <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">
+                            &nbsp;&nbsp;&nbsp;커뮤니티&nbsp;&nbsp;&nbsp;</a>
+                            <div class="dropdown-menu m-0">
+                                <a href="#" class="dropdown-item">캠핑장 후기</a>
+                                <a href="#" class="dropdown-item">캠핑용품 후기</a>
+                            </div>
+                        </div>
                     </div>
-                    <a href="" class="btn btn-primary rounded-pill py-2 px-4 ms-lg-4">Book Now</a>
                 </div>
             </nav>
 </body>
