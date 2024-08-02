@@ -40,7 +40,7 @@
                             <a href=""><i class="fas fa-angle-right me-2"></i> Legal Notice</a>
                             <a href=""><i class="fas fa-angle-right me-2"></i> Privacy Policy</a>
                             <a href=""><i class="fas fa-angle-right me-2"></i> Terms and Conditions</a>
-                            <a href=""><i class="fas fa-angle-right me-2"></i> Sitemap</a>
+                            <a href="">Sitemap</a>
                         </div>
                     </div>
                     
