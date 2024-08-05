@@ -17,7 +17,7 @@
                     </ol>
                     <div class="carousel-inner" role="listbox">
                         <div class="carousel-item active">
-                            <img src="img/carousel-2.jpg" class="img-fluid" alt="Image">
+                            <img src="../img/carousel-2.jpg" class="img-fluid" alt="Image">
                             <div class="carousel-caption">
                                 <div class="p-3" style="max-width: 900px;">
               
@@ -37,7 +37,7 @@
                             </div>
                         </div>
                         <div class="carousel-item">
-                            <img src="img/carousel-1.jpg" class="img-fluid" alt="Image">
+                            <img src="../img/carousel-1.jpg" class="img-fluid" alt="Image">
                             <div class="carousel-caption">
                                 <div class="p-3" style="max-width: 900px;">
                                     <h4 class="text-white text-uppercase fw-bold mb-4" style="letter-spacing: 3px;">Explore The World</h4>
@@ -56,7 +56,7 @@
                             </div>
                         </div>
                         <div class="carousel-item">
-                            <img src="img/carousel-3.jpg" class="img-fluid" alt="Image">
+                            <img src="../img/carousel-3.jpg" class="img-fluid" alt="Image">
                             <div class="carousel-caption">
                                 <div class="p-3" style="max-width: 900px;">
                                     <h4 class="text-white text-uppercase fw-bold mb-4" style="letter-spacing: 3px;">Explore The World</h4>
@@ -101,7 +101,7 @@
                 <div class="row g-5 align-items-center">
                     <div class="col-lg-5">
                         <div class="h-100" style="border: 50px solid; border-color: transparent #13357B transparent #13357B;">
-                            <img src="img/about-img.jpg" class="img-fluid w-100 h-100" alt="">
+                            <img src="../img/about-img.jpg" class="img-fluid w-100 h-100" alt="">
                         </div>
                     </div>
                     <div class="col-lg-7" style="background: linear-gradient(rgba(255, 255, 255, .8), rgba(255, 255, 255, .8)), url(img/about-img-1.png);">
@@ -163,7 +163,7 @@
                             <div class="row g-4">
                                 <div class="col-md-6 col-lg-4">
                                     <div class="national-item">
-                                        <img src="img/explore-tour-1.jpg" class="img-fluid w-100 rounded" alt="Image">
+                                        <img src="../img/explore-tour-1.jpg" class="img-fluid w-100 rounded" alt="Image">
                                         <div class="national-content">
                                             <div class="national-info">
                                                 <h5 class="text-white text-uppercase mb-2">Weekend Tour</h5>
@@ -177,7 +177,7 @@
                                 </div>
                                 <div class="col-md-6 col-lg-4">
                                     <div class="national-item">
-                                        <img src="img/explore-tour-2.jpg" class="img-fluid w-100 rounded" alt="Image">
+                                        <img src="../img/explore-tour-2.jpg" class="img-fluid w-100 rounded" alt="Image">
                                         <div class="national-content">
                                             <div class="national-info">
                                                 <h5 class="text-white text-uppercase mb-2">Holiday Tour</h5>
@@ -191,7 +191,7 @@
                                 </div>
                                 <div class="col-md-6 col-lg-4">
                                     <div class="national-item">
-                                        <img src="img/explore-tour-3.jpg" class="img-fluid w-100 rounded" alt="Image">
+                                        <img src="../img/explore-tour-3.jpg" class="img-fluid w-100 rounded" alt="Image">
                                         <div class="national-content">
                                             <div class="national-info">
                                                 <h5 class="text-white text-uppercase mb-2">Road Trip</h5>
@@ -206,7 +206,7 @@
                                 </div>
                                 <div class="col-md-6 col-lg-4">
                                     <div class="national-item">
-                                        <img src="img/explore-tour-4.jpg" class="img-fluid w-100 rounded" alt="Image">
+                                        <img src="../img/explore-tour-4.jpg" class="img-fluid w-100 rounded" alt="Image">
                                         <div class="national-content">
                                             <div class="national-info">
                                                 <h5 class="text-white text-uppercase mb-2">Historical Trip</h5>
@@ -220,7 +220,7 @@
                                 </div>
                                 <div class="col-md-6 col-lg-4">
                                     <div class="national-item">
-                                        <img src="img/explore-tour-5.jpg" class="img-fluid w-100 rounded" alt="Image">
+                                        <img src="../img/explore-tour-5.jpg" class="img-fluid w-100 rounded" alt="Image">
                                         <div class="national-content">
                                             <div class="national-info">
                                                 <h5 class="text-white text-uppercase mb-2">Family Tour</h5>
@@ -235,7 +235,7 @@
                                 </div>
                                 <div class="col-md-6 col-lg-4">
                                     <div class="national-item">
-                                        <img src="img/explore-tour-6.jpg" class="img-fluid w-100 rounded" alt="Image">
+                                        <img src="../img/explore-tour-6.jpg" class="img-fluid w-100 rounded" alt="Image">
                                         <div class="national-content">
                                             <div class="national-info">
                                                 <h5 class="text-white text-uppercase mb-2">Beach Tour</h5>
@@ -252,7 +252,7 @@
                         <div id="InternationalTab-2" class="tab-pane fade show p-0">
                             <div class="InternationalTour-carousel owl-carousel">
                                 <div class="international-item">
-                                    <img src="img/explore-tour-1.jpg" class="img-fluid w-100 rounded" alt="Image">
+                                    <img src="../img/explore-tour-1.jpg" class="img-fluid w-100 rounded" alt="Image">
                                     <div class="international-content">
                                         <div class="international-info">
                                             <h5 class="text-white text-uppercase mb-2">Australia</h5>
@@ -266,7 +266,7 @@
                                     </div>
                                 </div>
                                 <div class="international-item">
-                                    <img src="img/explore-tour-2.jpg" class="img-fluid w-100 rounded" alt="Image">
+                                    <img src="../img/explore-tour-2.jpg" class="img-fluid w-100 rounded" alt="Image">
                                     <div class="international-content">
                                         <div class="international-info">
                                             <h5 class="text-white text-uppercase mb-2">Germany</h5>
@@ -279,7 +279,7 @@
                                     </div>
                                 </div>
                                 <div class="international-item">
-                                    <img src="img/explore-tour-3.jpg" class="img-fluid w-100 rounded" alt="Image">
+                                    <img src="../img/explore-tour-3.jpg" class="img-fluid w-100 rounded" alt="Image">
                                     <div class="international-content">
                                         <div class="tour-offer bg-warning">45% Off</div>
                                         <div class="international-info">
@@ -293,7 +293,7 @@
                                     </div>
                                 </div>
                                 <div class="international-item">
-                                    <img src="img/explore-tour-4.jpg" class="img-fluid w-100 rounded" alt="Image">
+                                    <img src="../img/explore-tour-4.jpg" class="img-fluid w-100 rounded" alt="Image">
                                     <div class="international-content">
                                         <div class="international-info">
                                             <h5 class="text-white text-uppercase mb-2">Japan</h5>
@@ -306,7 +306,7 @@
                                     </div>
                                 </div>
                                 <div class="international-item">
-                                    <img src="img/explore-tour-5.jpg" class="img-fluid w-100 rounded" alt="Image">
+                                    <img src="../img/explore-tour-5.jpg" class="img-fluid w-100 rounded" alt="Image">
                                     <div class="international-content">
                                         <div class="tour-offer bg-info">70% Off</div>
                                         <div class="international-info">
@@ -376,7 +376,7 @@
                                     <div class="row g-4">
                                         <div class="col-lg-6">
                                             <div class="destination-img">
-                                                <img class="img-fluid rounded w-100" src="img/destination-1.jpg" alt="">
+                                                <img class="img-fluid rounded w-100" src="../img/destination-1.jpg" alt="">
                                                 <div class="destination-overlay p-4">
                                                     <a href="#" class="btn btn-primary text-white rounded-pill border py-2 px-3">20 Photos</a>
                                                     <h4 class="text-white mb-2 mt-3">New York City</h4>
@@ -389,7 +389,7 @@
                                         </div>
                                         <div class="col-lg-6">
                                             <div class="destination-img">
-                                                <img class="img-fluid rounded w-100" src="img/destination-2.jpg" alt="">
+                                                <img class="img-fluid rounded w-100" src="../img/destination-2.jpg" alt="">
                                                 <div class="destination-overlay p-4">
                                                     <a href="#" class="btn btn-primary text-white rounded-pill border py-2 px-3">20 Photos</a>
                                                     <h4 class="text-white mb-2 mt-3">Las vegas</h4>
@@ -402,7 +402,7 @@
                                         </div>
                                         <div class="col-lg-6">
                                             <div class="destination-img">
-                                                <img class="img-fluid rounded w-100" src="img/destination-7.jpg" alt="">
+                                                <img class="img-fluid rounded w-100" src="../img/destination-7.jpg" alt="">
                                                 <div class="destination-overlay p-4">
                                                     <a href="#" class="btn btn-primary text-white rounded-pill border py-2 px-3">20 Photos</a>
                                                     <h4 class="text-white mb-2 mt-3">Los angelas</h4>
@@ -415,7 +415,7 @@
                                         </div>
                                         <div class="col-lg-6">
                                             <div class="destination-img">
-                                                <img class="img-fluid rounded w-100" src="img/destination-8.jpg" alt="">
+                                                <img class="img-fluid rounded w-100" src="../img/destination-8.jpg" alt="">
                                                 <div class="destination-overlay p-4">
                                                     <a href="#" class="btn btn-primary text-white rounded-pill border py-2 px-3">20 Photos</a>
                                                     <h4 class="text-white mb-2 mt-3">Los angelas</h4>
@@ -430,7 +430,7 @@
                                 </div>
                                 <div class="col-xl-4">
                                     <div class="destination-img h-100">
-                                        <img class="img-fluid rounded w-100 h-100" src="img/destination-9.jpg" style="object-fit: cover; min-height: 300px;" alt="">
+                                        <img class="img-fluid rounded w-100 h-100" src="../img/destination-9.jpg" style="object-fit: cover; min-height: 300px;" alt="">
                                         <div class="destination-overlay p-4">
                                             <a href="#" class="btn btn-primary text-white rounded-pill border py-2 px-3">20 Photos</a>
                                             <h4 class="text-white mb-2 mt-3">San francisco</h4>
@@ -443,7 +443,7 @@
                                 </div>
                                 <div class="col-lg-4">
                                     <div class="destination-img">
-                                        <img class="img-fluid rounded w-100" src="img/destination-4.jpg" alt="">
+                                        <img class="img-fluid rounded w-100" src="../img/destination-4.jpg" alt="">
                                         <div class="destination-overlay p-4">
                                             <a href="#" class="btn btn-primary text-white rounded-pill border py-2 px-3">20 Photos</a>
                                             <h4 class="text-white mb-2 mt-3">Los angelas</h4>
@@ -456,7 +456,7 @@
                                 </div>
                                 <div class="col-lg-4">
                                     <div class="destination-img">
-                                        <img class="img-fluid rounded w-100" src="img/destination-5.jpg" alt="">
+                                        <img class="img-fluid rounded w-100" src="../img/destination-5.jpg" alt="">
                                         <div class="destination-overlay p-4">
                                             <a href="#" class="btn btn-primary text-white rounded-pill border py-2 px-3">20 Photos</a>
                                             <h4 class="text-white mb-2 mt-3">Los angelas</h4>
@@ -469,7 +469,7 @@
                                 </div>
                                 <div class="col-lg-4">
                                     <div class="destination-img">
-                                        <img class="img-fluid rounded w-100" src="img/destination-6.jpg" alt="">
+                                        <img class="img-fluid rounded w-100" src="../img/destination-6.jpg" alt="">
                                         <div class="destination-overlay p-4">
                                             <a href="#" class="btn btn-primary text-white rounded-pill border py-2 px-3">20 Photos</a>
                                             <h4 class="text-white mb-2 mt-3">Los angelas</h4>
@@ -486,7 +486,7 @@
                             <div class="row g-4">
                                 <div class="col-lg-6">
                                     <div class="destination-img">
-                                        <img class="img-fluid rounded w-100" src="img/destination-5.jpg" alt="">
+                                        <img class="img-fluid rounded w-100" src="../img/destination-5.jpg" alt="">
                                         <div class="destination-overlay p-4">
                                             <a href="#" class="btn btn-primary text-white rounded-pill border py-2 px-3">20 Photos</a>
                                             <h4 class="text-white mb-2 mt-3">San francisco</h4>
@@ -499,7 +499,7 @@
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="destination-img">
-                                        <img class="img-fluid rounded w-100" src="img/destination-6.jpg" alt="">
+                                        <img class="img-fluid rounded w-100" src="../img/destination-6.jpg" alt="">
                                         <div class="destination-overlay p-4">
                                             <a href="#" class="btn btn-primary text-white rounded-pill border py-2 px-3">20 Photos</a>
                                             <h4 class="text-white mb-2 mt-3">San francisco</h4>
@@ -516,7 +516,7 @@
                             <div class="row g-4">
                                 <div class="col-lg-6">
                                     <div class="destination-img">
-                                        <img class="img-fluid rounded w-100" src="img/destination-5.jpg" alt="">
+                                        <img class="img-fluid rounded w-100" src="../img/destination-5.jpg" alt="">
                                         <div class="destination-overlay p-4">
                                             <a href="#" class="btn btn-primary text-white rounded-pill border py-2 px-3">20 Photos</a>
                                             <h4 class="text-white mb-2 mt-3">San francisco</h4>
@@ -529,7 +529,7 @@
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="destination-img">
-                                        <img class="img-fluid rounded w-100" src="img/destination-6.jpg" alt="">
+                                        <img class="img-fluid rounded w-100" src="../img/destination-6.jpg" alt="">
                                         <div class="destination-overlay p-4">
                                             <a href="#" class="btn btn-primary text-white rounded-pill border py-2 px-3">20 Photos</a>
                                             <h4 class="text-white mb-2 mt-3">San francisco</h4>
@@ -546,7 +546,7 @@
                             <div class="row g-4">
                                 <div class="col-lg-6">
                                     <div class="destination-img">
-                                        <img class="img-fluid rounded w-100" src="img/destination-5.jpg" alt="">
+                                        <img class="img-fluid rounded w-100" src="../img/destination-5.jpg" alt="">
                                         <div class="destination-overlay p-4">
                                             <a href="#" class="btn btn-primary text-white rounded-pill border py-2 px-3">20 Photos</a>
                                             <h4 class="text-white mb-2 mt-3">San francisco</h4>
@@ -559,7 +559,7 @@
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="destination-img">
-                                        <img class="img-fluid rounded w-100" src="img/destination-6.jpg" alt="">
+                                        <img class="img-fluid rounded w-100" src="../img/destination-6.jpg" alt="">
                                         <div class="destination-overlay p-4">
                                             <a href="#" class="btn btn-primary text-white rounded-pill border py-2 px-3">20 Photos</a>
                                             <h4 class="text-white mb-2 mt-3">San francisco</h4>
@@ -576,7 +576,7 @@
                             <div class="row g-4">
                                 <div class="col-lg-6">
                                     <div class="destination-img">
-                                        <img class="img-fluid rounded w-100" src="img/destination-5.jpg" alt="">
+                                        <img class="img-fluid rounded w-100" src="../img/destination-5.jpg" alt="">
                                         <div class="destination-overlay p-4">
                                             <a href="#" class="btn btn-primary text-white rounded-pill border py-2 px-3">20 Photos</a>
                                             <h4 class="text-white mb-2 mt-3">San francisco</h4>
@@ -589,7 +589,7 @@
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="destination-img">
-                                        <img class="img-fluid rounded w-100" src="img/destination-6.jpg" alt="">
+                                        <img class="img-fluid rounded w-100" src="../img/destination-6.jpg" alt="">
                                         <div class="destination-overlay p-4">
                                             <a href="#" class="btn btn-primary text-white rounded-pill border py-2 px-3">20 Photos</a>
                                             <h4 class="text-white mb-2 mt-3">San francisco</h4>
@@ -606,7 +606,7 @@
                             <div class="row g-4">
                                 <div class="col-lg-6">
                                     <div class="destination-img">
-                                        <img class="img-fluid rounded w-100" src="img/destination-5.jpg" alt="">
+                                        <img class="img-fluid rounded w-100" src="../img/destination-5.jpg" alt="">
                                         <div class="destination-overlay p-4">
                                             <a href="#" class="btn btn-primary text-white rounded-pill border py-2 px-3">20 Photos</a>
                                             <h4 class="text-white mb-2 mt-3">San francisco</h4>
@@ -619,7 +619,7 @@
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="destination-img">
-                                        <img class="img-fluid rounded w-100" src="img/destination-6.jpg" alt="">
+                                        <img class="img-fluid rounded w-100" src="../img/destination-6.jpg" alt="">
                                         <div class="destination-overlay p-4">
                                             <a href="#" class="btn btn-primary text-white rounded-pill border py-2 px-3">20 Photos</a>
                                             <h4 class="text-white mb-2 mt-3">San francisco</h4>
@@ -649,7 +649,7 @@
                 <div class="packages-carousel owl-carousel">
                     <div class="packages-item">
                         <div class="packages-img">
-                            <img src="img/packages-4.jpg" class="img-fluid w-100 rounded-top" alt="Image">
+                            <img src="../img/packages-4.jpg" class="img-fluid w-100 rounded-top" alt="Image">
                             <div class="packages-info d-flex border border-start-0 border-end-0 position-absolute" style="width: 100%; bottom: 0; left: 0; z-index: 5;">
                                 <small class="flex-fill text-center border-end py-2"><i class="fa fa-map-marker-alt me-2"></i>Venice - Italy</small>
                                 <small class="flex-fill text-center border-end py-2"><i class="fa fa-calendar-alt me-2"></i>3 days</small>
@@ -682,7 +682,7 @@
                     </div>
                     <div class="packages-item">
                         <div class="packages-img">
-                            <img src="img/packages-2.jpg" class="img-fluid w-100 rounded-top" alt="Image">
+                            <img src="../img/packages-2.jpg" class="img-fluid w-100 rounded-top" alt="Image">
                             <div class="packages-info d-flex border border-start-0 border-end-0 position-absolute" style="width: 100%; bottom: 0; left: 0; z-index: 5;">
                                 <small class="flex-fill text-center border-end py-2"><i class="fa fa-map-marker-alt me-2"></i>Venice - Italy</small>
                                 <small class="flex-fill text-center border-end py-2"><i class="fa fa-calendar-alt me-2"></i>3 days</small>
@@ -715,7 +715,7 @@
                     </div>
                     <div class="packages-item">
                         <div class="packages-img">
-                            <img src="img/packages-3.jpg" class="img-fluid w-100 rounded-top" alt="Image">
+                            <img src="../img/packages-3.jpg" class="img-fluid w-100 rounded-top" alt="Image">
                             <div class="packages-info d-flex border border-start-0 border-end-0 position-absolute" style="width: 100%; bottom: 0; left: 0; z-index: 5;">
                                 <small class="flex-fill text-center border-end py-2"><i class="fa fa-map-marker-alt me-2"></i>Venice - Italy</small>
                                 <small class="flex-fill text-center border-end py-2"><i class="fa fa-calendar-alt me-2"></i>3 days</small>
@@ -748,7 +748,7 @@
                     </div>
                     <div class="packages-item">
                         <div class="packages-img">
-                            <img src="img/packages-1.jpg" class="img-fluid w-100 rounded-top" alt="Image">
+                            <img src="../img/packages-1.jpg" class="img-fluid w-100 rounded-top" alt="Image">
                             <div class="packages-info d-flex border border-start-0 border-end-0 position-absolute" style="width: 100%; bottom: 0; left: 0; z-index: 5;">
                                 <small class="flex-fill text-center border-end py-2"><i class="fa fa-map-marker-alt me-2"></i>Thayland</small>
                                 <small class="flex-fill text-center border-end py-2"><i class="fa fa-calendar-alt me-2"></i>3 days</small>
@@ -800,7 +800,7 @@
                             </p>
                         </div>
                         <div class="testimonial-img p-1">
-                            <img src="img/testimonial-1.jpg" class="img-fluid rounded-circle" alt="Image">
+                            <img src="../img/testimonial-1.jpg" class="img-fluid rounded-circle" alt="Image">
                         </div>
                         <div style="margin-top: -35px;">
                             <h5 class="mb-0">John Abraham</h5>
@@ -820,7 +820,7 @@
                             </p>
                         </div>
                         <div class="testimonial-img p-1">
-                            <img src="img/testimonial-2.jpg" class="img-fluid rounded-circle" alt="Image">
+                            <img src="../img/testimonial-2.jpg" class="img-fluid rounded-circle" alt="Image">
                         </div>
                         <div style="margin-top: -35px;">
                             <h5 class="mb-0">John Abraham</h5>
@@ -840,7 +840,7 @@
                             </p>
                         </div>
                         <div class="testimonial-img p-1">
-                            <img src="img/testimonial-3.jpg" class="img-fluid rounded-circle" alt="Image">
+                            <img src="../img/testimonial-3.jpg" class="img-fluid rounded-circle" alt="Image">
                         </div>
                         <div style="margin-top: -35px;">
                             <h5 class="mb-0">John Abraham</h5>
@@ -860,7 +860,7 @@
                             </p>
                         </div>
                         <div class="testimonial-img p-1">
-                            <img src="img/testimonial-4.jpg" class="img-fluid rounded-circle" alt="Image">
+                            <img src="../img/testimonial-4.jpg" class="img-fluid rounded-circle" alt="Image">
                         </div>
                         <div style="margin-top: -35px;">
                             <h5 class="mb-0">John Abraham</h5>
