@@ -838,7 +838,7 @@
                                     <small class="fa fa-star text-primary"></small> 
                                     <small class="fa fa-star text-primary"></small>
                                     <small class="fa fa-star text-primary"></small>
-                                </div>
+                                </div> 
                                 <p class="mb-4">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nesciunt nemo quia quae illum aperiam fugiat voluptatem repellat</p>
                             </div>
                             <div class="row bg-primary rounded-bottom mx-0">

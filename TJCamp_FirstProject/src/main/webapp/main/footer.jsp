@@ -6,7 +6,7 @@
 <meta charset="UTF-8">
 <title>Insert title here</title> 
 </head>
-<body>
+<body> 
 <div class="container-fluid footer py-5" >
             <div class="container py-5" >
                 <div class="row g-5" align="center">
