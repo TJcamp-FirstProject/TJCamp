@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE configuration
+PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+"https://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+
+<!-- VO 등록	 -->
+<typeAliases>
+	<typeAlias type="com.sist.vo.Camp_BoardVO" alias="Camp_BoardVO"/>
+	<typeAlias type="com.sist.vo.Goods_BoardVO" alias="Goods_BoardVO"/>
+	<typeAlias type="" alias=""/>
+	
+</typeAliases>
+
+</configuration>
